@@ -1,5 +1,3 @@
-
-readme_content = """
 # Pothole Detection Using YOLOv11 🚧
 
 An AI-powered real-time pothole detection system using **YOLOv11**, integrated with **Streamlit**, and enhanced with **image, video, and smartphone camera detection**. The system also performs **repair material estimation** to assist smart infrastructure maintenance.
