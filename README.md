@@ -14,7 +14,7 @@ This project aims to improve road safety and optimize maintenance workflows by i
 ## 📂 Dataset
 
 - **Source**: [Roboflow Dataset – Pothole Detection](https://universe.roboflow.com/project-ssayl/potholes-detection-d4rma/dataset/1)
-- **Format**: YOLOv8-compatible with train, validation, and test splits
+- **Format**: YOLOv11-compatible with train, validation, and test splits
 - **Annotations**: Bounding boxes for pothole instances
 - **License**: CC BY 4.0
 
