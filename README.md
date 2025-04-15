@@ -61,7 +61,7 @@ This project aims to improve road safety and optimize maintenance workflows by i
 
 ```bash
 git clone https://github.com/arul0076/pothole-detection-yolov11-streamlit.git
-cd pothole-detection-yolov11
+cd pothole-detection-yolov11-streamlit
 pip install -r requirements.txt
 ```
 
