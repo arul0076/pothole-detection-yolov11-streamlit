@@ -35,13 +35,11 @@ This project aims to improve road safety and optimize maintenance workflows by i
 ## 🏗️ Project Structure
 
 ```
-├── app.py                         # Streamlit frontend
+├── app.py                        # Streamlit frontend
 ├── detect.py                     # YOLOv11 detection wrapper
-├── utils.py                      # Utility functions (material estimation, drawing boxes)
+├── model metrics.ipynb           # For model evalution
 ├── Weights/
 │   └── best.pt                   # Trained YOLOv11 model weights
-├── dataset_format/
-│   ├── train/valid/test          # Dataset directories
 ├── requirements.txt              # Python dependencies
 └── README.md                     # Project overview
 ```
