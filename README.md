@@ -76,6 +76,7 @@ streamlit run app.py
 Upload an image or video, or use your phone camera to start detecting potholes!
 
 ---
+![Screenshot 2025-03-27 155546](https://github.com/user-attachments/assets/451612bb-5bbe-433d-9fc5-6b5f5cf4642d)
 
 ## 📐 Material Estimation Logic
 
